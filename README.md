@@ -1,13 +1,16 @@
-# DHEC_Dam_Sensor_System
+# DHEC Dam Sensor System
+##CAD files
+-contains
+--STL
+--PDF
 
-
-Task List:
+### Task List:
 -Upload documentation
 -Clean code
 -Upload Code
 -Upload CAD (.stl, .?, .pdf)
 -Add to README.md files
 
-Backlog:
+### Backlog:
 -Communication (SMS, TCP, email, heartbeat)
 -diagnoses ERROR issue on the GSM
