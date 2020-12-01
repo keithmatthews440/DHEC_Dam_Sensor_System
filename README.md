@@ -11,7 +11,7 @@
 - Historical Code (outdated code)
 
 ## Build Documentation
-- Everything you need to build and oprate the device
+- Everything you need to build and operate the device
 - Parts List
 - Assembly Instructions
 - Code upload Instructions
@@ -29,7 +29,7 @@
 - Pressure Sensor
 - Battery
 
-### Task List:
+### To Do:
 - Upload documentation
 - Clean code
 - Upload Code
