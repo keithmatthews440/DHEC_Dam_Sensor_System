@@ -22,7 +22,10 @@
 ## Historical Documents
 - Contains old and outdated documents
 
-## Documents
+## Media
+- Photos, videos, and other Media
+
+## Supporting Documents
 - Documents from manufactures, research, or other
 - GSM shield
 - Arduino
