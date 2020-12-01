@@ -1,8 +1,8 @@
 # DHEC Dam Sensor System
 ## CAD files
 - contains
--- STL
--- PDF
+-   STL
+-   PDF
 
 ### Task List:
 - Upload documentation
