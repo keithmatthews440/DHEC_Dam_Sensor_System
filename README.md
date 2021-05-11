@@ -1,5 +1,5 @@
 # DHEC Dam Sensor System
-# *****UNDERGOING CONSTRUCTION*****
+# ***** /*NOTE: UNDERGOING CONSTRUCTION/* *****
 
 ## CAD files
 - contains:
