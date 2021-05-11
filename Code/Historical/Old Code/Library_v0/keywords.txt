@@ -1,0 +1,6 @@
+ATShorts	KEYWORD 1
+
+begin	KEYWORD 2
+print	KEYWORD 2
+printHex	KEYWORD 2
+read	KEYWORD 2
